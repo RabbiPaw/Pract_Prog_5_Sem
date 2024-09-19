@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2915a633-bdc2-41f7-b636-c4541d6ace73" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../1_e2e_tests/.idea/1_e2e_tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../e2e_tests/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../e2e_tests/.idea/e2e_tests.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../e2e_tests/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -13,8 +14,6 @@
       <change afterPath="$PROJECT_DIR$/../e2e_tests/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../e2e_tests/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../e2e_tests/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
